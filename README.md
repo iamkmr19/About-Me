@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋, I'm Rishav Kumar Mishra
 
-<!--
-**iamkmr19/iamkmr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst | Turning Data into Actionable Insights
 
-Here are some ideas to get you started:
+I'm passionate about solving real-world business problems using data. I have built multiple end-to-end data analytics projects involving data cleaning, analysis, visualization, and dashboard creation using modern analytics tools. I'm currently seeking opportunities as a Data Analyst where I can apply my analytical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+### 📈 Data Visualization
+- Power BI
+- Tableau
+- Microsoft Excel
+
+### 💻 Programming
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+### 🗄️ Databases
+- SQL (MySQL, PostgreSQL)
+
+### 📊 Data Analytics
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Data Modeling
+- Business Insights
+- KPI Reporting
+
+---
+
+## 📂 Featured Projects
+
+- 📊 Banking Project 
+- 🛒 Banking Dashboard
+- 📈 Weather API Dashboard
+- 🐍 Hotel Bookings Project
+- 📉 Employee Dashboard 
+- 📋 Jio Sales Dashboard
+- 📦 SQL PROJECT 
+
+*(Visit my repositories to explore these projects.)*
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Statistics for Data Science
+- Time Series Analysis
+
+---
+
+## 🎯 Career Objective
+
+Looking for entry-level Data Analyst opportunities where I can leverage my analytical mindset, technical skills, and project experience to help businesses make data-driven decisions.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/kmrishav19
+- 📧 Email:iamkmr1999@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.

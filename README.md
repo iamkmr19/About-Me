@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rishav !!
 
-## 📊 Aspiring Data Analyst | Turning Data into Actionable Insights
+## 📊 📊 Data Analyst | Excel • SQL • Power BI • Python | Turning Data into Actionable Insights
 
 I'm passionate about solving real-world business problems using data. I have built multiple end-to-end data analytics projects involving data cleaning, analysis, visualization, and dashboard creation using modern analytics tools. I'm currently seeking opportunities as a Data Analyst where I can apply my analytical and problem-solving skills.
 
